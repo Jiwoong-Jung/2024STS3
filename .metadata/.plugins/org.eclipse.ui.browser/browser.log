@@ -1,0 +1,13 @@
+
+9월 12, 2024 15:48:32.36 NEW SESSION
+9월 12, 2024 15:48:32.36 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 12, 2024 18:06:32.734 NEW SESSION
+9월 12, 2024 18:06:32.734 Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 12, 2024 18:08:16.851 [5644:14968:0912/180816.850:ERROR:device_event_log_impl.cc(196)] [18:08:16.850] Bluetooth: bluetooth_adapter_winrt.cc:1055 Getting Default Adapter failed.
+9월 12, 2024 18:10:57.572 [5644:14968:0912/181057.572:ERROR:sharing_service.cc(251)] Device un-registration failed with fatal error
+9월 12, 2024 18:10:58.311 [5644:14968:0912/181058.311:ERROR:device_event_log_impl.cc(196)] [18:10:58.311] Bluetooth: bluetooth_adapter_winrt.cc:1055 Getting Default Adapter failed.
+9월 12, 2024 18:17:53.316 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 12, 2024 19:14:49.881 NEW SESSION
+9월 12, 2024 19:14:49.881 Created TensorFlow Lite XNNPACK delegate for CPU.
