@@ -11,3 +11,7 @@
 
 9월 12, 2024 19:14:49.881 NEW SESSION
 9월 12, 2024 19:14:49.881 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 25, 2024 19:38:40.616 NEW SESSION
+9월 25, 2024 19:38:40.616 [10176:25544:0925/193840.615:ERROR:device_event_log_impl.cc(201)] [19:38:40.615] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+9월 25, 2024 19:38:40.697 Created TensorFlow Lite XNNPACK delegate for CPU.

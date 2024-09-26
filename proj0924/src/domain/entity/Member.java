@@ -14,9 +14,6 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 public class Member {
-	public Member(Long memberId) {
-		this.id = memberId;
-	}
 	private Long id;
 	private String name;
 	private Address address;
